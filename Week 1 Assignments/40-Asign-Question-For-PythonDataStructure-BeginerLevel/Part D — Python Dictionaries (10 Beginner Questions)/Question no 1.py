@@ -1,6 +1,6 @@
 # 1. Create a dictionary {'name': 'Ali', 'age': 25} and print the name.
 
-d = {'name': 'Ali', 'age': 25}
+d = {'name': 'Mudassar', 'age': 25}
 
 print(f"Dictionary: {d}")
 

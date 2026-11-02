@@ -1,6 +1,6 @@
 # 2. Add key 'city': 'Lahore' to a dictionary.
 
-d = {'name': 'Ali', 'age': 25}
+d = {'name': 'Mudassar', 'age': 25}
 
 print(f"Dictionary: {d}")
 
