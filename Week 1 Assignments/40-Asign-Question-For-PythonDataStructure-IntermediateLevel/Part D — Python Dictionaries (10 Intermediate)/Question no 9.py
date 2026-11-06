@@ -1,6 +1,6 @@
 # 9. Combine two lists into a dictionary (keys from first list, values from second).
 
-names = ['Ayesha', 'Umair', 'Mudassar']
+names = ['Ayesha', 'Ali', 'Mudassar']
 
 marks = [80, 89, 78]
 
